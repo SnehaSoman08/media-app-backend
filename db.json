@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Dora",
+      "url": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4a35c033f66805ba67d017dbd3ce2ab01a12b1801ffa6197ceb72420d6ea087d._RI_TTW_SX1080_FMjpg_.jpg",
+      "embedLink": "https://www.youtube.com/embed/gGslvfeQocU"
+    },
+    {
+      "id": "2",
+      "caption": "Mr.Bean",
+      "url": "https://www.hindustantimes.com/ht-img/img/2024/01/04/1600x900/mr_bean_1704383140543_1704383147458.jpg",
+      "embedLink": "https://www.youtube.com/embed/YBVI6yzLxkg"
+    },
+    {
+      "id": "3",
+      "caption": "Tom & Jerry",
+      "url": "https://myinspiringthoughts.com/wp-content/uploads/2020/12/tomjerry1.jpg",
+      "embedLink": "https://www.youtube.com/embed/t0Q2otsqC4I"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Adventure",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Dora",
+          "url": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4a35c033f66805ba67d017dbd3ce2ab01a12b1801ffa6197ceb72420d6ea087d._RI_TTW_SX1080_FMjpg_.jpg",
+          "embedLink": "https://www.youtube.com/embed/gGslvfeQocU"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Comedy",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Mr.Bean",
+          "url": "https://www.hindustantimes.com/ht-img/img/2024/01/04/1600x900/mr_bean_1704383140543_1704383147458.jpg",
+          "embedLink": "https://www.youtube.com/embed/YBVI6yzLxkg"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Dora",
+      "embedLink": "https://www.youtube.com/embed/Z-ZHHU_Tr_a",
+      "timeStamp": "02/02/2024, 01:37:42 PM",
+      "id": 2
+    },
+    {
+      "caption": "Dora",
+      "embedLink": "https://www.youtube.com/embed/gGslvfeQocU",
+      "timeStamp": "02/02/2024, 01:39:05 PM",
+      "id": 3
+    },
+    {
+      "caption": "Tom & Jerry",
+      "embedLink": "https://www.youtube.com/embed/t0Q2otsqC4I",
+      "timeStamp": "02/02/2024, 01:47:32 PM",
+      "id": 5
+    },
+    {
+      "caption": "Chota Bheem",
+      "embedLink": "https://www.youtube.com/embed/hGo0YZgbRrU",
+      "timeStamp": "02/02/2024, 01:52:23 PM",
+      "id": 6
+    },
+    {
+      "caption": "Jachie Chan",
+      "embedLink": "https://www.youtube.com/embed/SQL_hXuaJLs",
+      "timeStamp": "02/02/2024, 02:41:04 PM",
+      "id": 7
+    },
+    {
+      "caption": "Mr.Bean",
+      "embedLink": "https://www.youtube.com/embed/YBVI6yzLxkg",
+      "timeStamp": "02/03/2024, 02:09:07 PM",
+      "id": 8
+    }
+  ]
+}
